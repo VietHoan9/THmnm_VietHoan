@@ -1,0 +1,7 @@
+Hướng dẫn sử dung ứng dung giải hệ phương trình tuyến tính n phương trình n ẩn
+
+-B1: chọn số phương trình tuyến tính
+-B2: ấn tạo hệ phương trình
+-B3: nhập hệ số cho phương trình và ấn giải hệ phương trình
+-B4: ấn xóa dữ liệu để xóa hệ số của phương trình
+-B5: có thể nhập lại số phương trình để tạo hệ phương trình mới
